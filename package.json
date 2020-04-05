@@ -2,7 +2,7 @@
   "name": "gracelink",
   "version": "6.3.4",
   "engines": {
-    "node": "13.11",
+    "node": "13.x",
     "npm": "6.13.7"
   },
   "private": true,
